@@ -1,0 +1,45 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+body {
+    background-color: antiquewhite;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+    font-weight: 800;
+    font-family: "Mulish", sans-serif;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    font-weight: 800;
+    font-family: "Mulish", sans-serif;
+    font-size: 40px;
+}
+img {
+
+width: 60%;
+margin: auto;
+display: block;
+border-radius: 10px;
+
+}
+
